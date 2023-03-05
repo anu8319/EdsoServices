@@ -30,5 +30,6 @@ public class AnnotationExample extends AnnotationExample2 {
     @AfterClass
     public  void afterClassExample(){
         System.out.println("after Class Example");
+        System.out.println("This is  Last Example");
     }
 }
